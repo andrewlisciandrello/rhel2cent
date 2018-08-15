@@ -1,2 +1,5 @@
 # rhel2cent
-Untested - Transform RHEL servers to CentOS
+
+# Inherited from the before time
+
+untested, use with caution
